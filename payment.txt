@@ -1,1 +1,1 @@
-payment code work in progress
+payment gateway integration
